@@ -1,0 +1,1 @@
+I promice to never use my private key associted with real money in plain text.
